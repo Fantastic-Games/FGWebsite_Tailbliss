@@ -121,6 +121,9 @@ params:
     twitter:
       enabled: true
       url: 'https://twitter.com/nusserstudios'
+    linkedin:
+      enabled: true
+      url: 'https://www.linkedin.com/company/fantastic-games-studios/'
     
 
 menu:
