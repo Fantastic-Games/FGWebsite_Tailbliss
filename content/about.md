@@ -7,18 +7,18 @@ description: About Us
 featured_image: ../assets/images/featured/featured-img-placeholder.png
 ---
 
-**Andrew Adame**
+# Andrew Adame
 I’m **Andrew “Fantastic” Adame**, team lead at **Fantastic Games** and creative director of *Project Azrael* and *Project Zweihander*. With a BA in Computer Systems from CSU San Bernardino, I’ve spent two years working with Unreal Engine 5 and Godot, and four years working in Blender.
 
 Our goal at **Fantastic Games** is to craft experiences we want to play ourselves. Through teamwork, creativity, and dedication, we aim to make games that inspired the same sense of wonder and awe that first made us fall in love with the medium.
 
 
 
-**Neo Neko Star**
+# Neo Neko Star
 Hello! My name is **Neo Neko Star** or “**Neo**” for short, I am the assistant manager for *Project Azrael* and documentation lead. I am a huge fan of front-end work and love many genres of video games such as survival, FPS and co-op games. Here at **Fantastic Games** we prioritize creative freedom, and make sure all members are able to contribute and have their own game ideas heard and worked on. Our goal is to make quality games while also creating a uniqueness only found in our team.
 
 
-**Brenden Hernandez**
+# Brenden Hernandez 
 Brenden Hernandez is a level designer and programmer at **Fantastic Games** working on *Project Azrael* and *Project Zweihander*. Graduate from Crafton Hills College with a AS-T in Computer Science and Cal State San Bernardino with a BA in Computer System with a Focus in Game Development. Brenden is familiar with Unreal Engine 5, Unity, and Godot. He is proficient in C#, C++, and Python. 
 
 Brenden's favorite games are Counter Strike, Fallout, Elder Scrolls, Resident Evil and God of War. Some hobbies Brenden is into outside of Game Developing is fashion, Vinyl collecting, sneaker collecting, cars and traveling.
