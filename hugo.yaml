@@ -112,20 +112,10 @@ params:
     github:
       enabled: true
       url: 'https://github.com/Fantastic-Games'
-    facebook:
-      enabled: true
-      url: 'https://facebook.com/nusserstudios'
-    instagram:
-      enabled: true
-      url: 'https://instagram.com/nusserstudios'
-    twitter:
-      enabled: true
-      url: 'https://twitter.com/nusserstudios'
     linkedin:
       enabled: true
       url: 'https://www.linkedin.com/company/fantastic-games-studios/'
     
-
 menu:
   main:
     - identifier: 
