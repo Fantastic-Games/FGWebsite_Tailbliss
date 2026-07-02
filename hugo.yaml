@@ -51,7 +51,7 @@ params:
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
   moto: "We make games we want to play."
-  description: "What the We are a team dedicated to making games WE would want to play, to express our own ideas and stories through the interactive medium of video games. We will never pursue a project for the sake of profitability, and we will never develop a project we do not want to make."
+  description: "We are a team dedicated to making games WE would want to play, to express our own ideas and stories through the interactive medium of video games. We will never pursue a project for the sake of profitability, and we will never develop a project we do not want to make."
   disable_theme_toggle: false
   newsletter_signup: true
 
