@@ -125,9 +125,9 @@ params:
 
 menu:
   main:
-    - identifier: prose
-      name: Prose
-      url: /prose/
+    - identifier: 
+      name: 
+      url: //
       weight: 10
     - identifier: about
       name: About
@@ -146,9 +146,9 @@ menu:
       url: /contact/
       weight: 50
   categories:
-    - identifier: prose
-      name: Prose
-      url: /prose/
+    - identifier: 
+      name: 
+      url: //
       weight: 10
     - identifier: about
       name: About
@@ -186,9 +186,9 @@ menu:
       name: News
       url: /categories/news/
       weight: 30
-    - identifier: prose
-      name: Prose
-      url: /prose/
+    - identifier: 
+      name: 
+      url: //
       weight: 40
     - identifier: contact
       name: Contact
