@@ -7,236 +7,44 @@ description: About Us
 featured_image: ../assets/images/featured/featured-img-placeholder.png
 ---
 
-# h1 Heading :blush:
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+**Andrew Adame**
+I’m **Andrew “Fantastic” Adame**, team lead at **Fantastic Games** and creative director of *Project Azrael* and *Project Zweihander*. With a BA in Computer Systems from CSU San Bernardino, I’ve spent two years working with Unreal Engine 5 and Godot, and four years working in Blender.
 
+Our goal at **Fantastic Games** is to craft experiences we want to play ourselves. Through teamwork, creativity, and dedication, we aim to make games that inspired the same sense of wonder and awe that first made us fall in love with the medium.
 
-## Horizontal Rules
 
-***
 
----
+**Neo Neko Star**
+Hello! My name is **Neo Neko Star** or “**Neo**” for short, I am the assistant manager for *Project Azrael* and documentation lead. I am a huge fan of front-end work and love many genres of video games such as survival, FPS and co-op games. Here at **Fantastic Games** we prioritize creative freedom, and make sure all members are able to contribute and have their own game ideas heard and worked on. Our goal is to make quality games while also creating a uniqueness only found in our team.
 
-___
 
+**Brenden Hernandez**
+Brenden Hernandez is a level designer and programmer at **Fantastic Games** working on *Project Azrael* and *Project Zweihander*. Graduate from Crafton Hills College with a AS-T in Computer Science and Cal State San Bernardino with a BA in Computer System with a Focus in Game Development. Brenden is familiar with Unreal Engine 5, Unity, and Godot. He is proficient in C#, C++, and Python. 
 
-## Typographic replacements
+Brenden's favorite games are Counter Strike, Fallout, Elder Scrolls, Resident Evil and God of War. Some hobbies Brenden is into outside of Game Developing is fashion, Vinyl collecting, sneaker collecting, cars and traveling.
 
-Enable typographer option to see result.
 
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
 
-test.. test... test..... test?..... test!....
+**RB**
+Name's RB. I'm a grunt at **Fantastic Games** who doesn't know how to keep his creative tongue sealed when it comes to writing. 
 
-!!!!!! ???? ,,  -- ---
+I work on the art side of the team; Concept Artist for *Project Azrael*, Pixel Artist in Aseprite for *Project Zweihander*, or just doodling my boss caught in a King chain grab or Armor King's combo hell.
 
-"Smartypants, double quotes" and 'single quotes'
 
 
-## Emphasis
+**Joseph Juan Benavidez**
+I am a late member of **Fantastic Games** who provided the motion capture for the player character in *Project Azrael*. I was drawn to this project due to it's unique setting as I myself am a BIG history buff with an eye for animation and historical authenticity. 
+ 
+I am also an animator-in-training, love anime and animation of the like, and utterly love gaming. My favorite genre of game are Spectacle Hack & Slashes (DMC, Ninja Gaiden, etc)
 
-**This is bold text**
 
-__This is bold text__
 
-*This is italic text*
+Isaiah “Dallas” Vallejo
+Born in the summer fires of Southern California and raised in the city known as Riverside. My journey into the gaming scene was started by meeting a group of knuckle heads in high school who also shared a passion for gaming and the work that goes into making them, I joined **Fantastic Games** after high school looking to take my steps into game development. 
 
-_This is italic text_
+My bond with gaming started with my dad introducing me to games such as Bad Company 2, Halo 3 ODST, Split Second and so much more. These games got me into wanting to make video games and now years later I finally have the chance to work on some on the team for **Fantastic Games**. My current role is helping clean-up animations as an animator-in-training, and working as a Level Designer in Godot for *Project Zweihander*.
 
-~~Strikethrough~~
 
 
-## Blockquotes
-
-
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
-
-
-## Lists
-
-Unordered
-
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-
-1. You can use sequential numbers...
-1. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-1. bar
-
-
-## Code
-
-Inline `code`
-
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-```
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Tables
-
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-Right aligned columns
-
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-
-
-## Plugins
-
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
-
-
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
-
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
-
-
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-- 19^th^
-- H~2~O
-
-
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-==Marked text==
-
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link[^first].
-
-Footnote 2 link[^second].
-
-Inline footnote^[Text of inline footnote] definition.
-
-Duplicated footnote reference[^second].
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
-
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-:   Definition 1
-with lazy continuation.
-
-Term 2 with *inline markup*
-
-:   Definition 2
-
-        { some code, part of Definition 2 }
-
-    Third paragraph of definition 2.
-
-_Compact style:_
-
-Term 1
-  ~ Definition 1
-
-Term 2
-  ~ Definition 2a
-  ~ Definition 2b
-
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-*[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning
-*here be dragons*
-:::
+K.S. Simms
+Description: Hi, I'm K.S Simms. I have been part of Fantastic games since 2023 and am the combat lead. I'm responsible for the approval and implementation of the combat features in our games.
