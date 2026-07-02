@@ -59,9 +59,10 @@ params:
     heading: "Our mission"
     image: "images/pages/our-mission.png"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vl porttitor vitae ut. Amet vitae fames senectus vitae."
-      - text: "Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna. Sollicitudin tristique eroserat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna."
-      - text: "Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra."
+      - text: "We are a team dedicated to making games WE would want to play, to express our own ideas and stories through the interactive medium of video games. We will never pursue a project for the sake of profitability, and we will never develop a project we do not want to make."
+      - text: "Passion over Profit: Fantastic Games will NEVER develop a project to make a profit. We believe profit is a reward, a direct result of the passion put into a project. We make games because we want to make them. Period. This is not only a value, but a rule that will be enforced by the Team Leads. The Team Leads are in their right to deny ANY project that goes against this or any of the listed values."
+      - text: "Quality over Quantity: Fantastic Games believes that games take TIME to make. We will never push our team harder than we would push ourselves; projects and their developers should be given the proper time to develop into a well-polished product."
+      - text: "Teamwork: Although everyone will be assigned their own part of the project, many of these things will be interconnected with other developers in the team. Make sure to contact other developers to ensure smoothness in connection, as well as confusion or struggle in code. We are a team and want to provide the best game projects as you do too!"
   p2:
     heading: "Just in time for Hacktoberfest with JIT Tailwind."
     image: "images/pages/hacktoberfest.jpg"
