@@ -50,8 +50,8 @@ params:
   author: Fantastic Games
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
-  moto: "Super Fast, and Flexible"
-  description: "A Hugo theme built with love, using TailwindCSS, Alpine.JS, and Hugo Pipes. Images are optimized for use with Hugo Pipes for WebP format."
+  moto: "wE mAke gAmEs wE wAnT tO pLaY"
+  description: "what the fuck is a sonic."
   disable_theme_toggle: false
   newsletter_signup: true
 
