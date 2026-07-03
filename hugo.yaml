@@ -48,7 +48,7 @@ markup:
 
 params:
   author: Fantastic Games
-  authorimage: ../assets/images/global/author.webp
+  authorimage: ../assets/images/global/FantasticLogoTransparent.png
   og_image: /images/tailbliss-cover.png
   moto: ""
   description: "We make games we want to play."
@@ -119,10 +119,10 @@ params:
     
 menu:
   main:
-    - identifier: 
-      name: 
-      url: //
-      weight: 10
+    - identifier: games
+      name: Games
+      url: /games/
+      weight: 10 
     - identifier: about
       name: About
       url: /about/
@@ -140,10 +140,6 @@ menu:
       url: /contact/
       weight: 50
   categories:
-    - identifier: 
-      name: 
-      url: //
-      weight: 10
     - identifier: about
       name: About
       url: /about/
@@ -180,9 +176,9 @@ menu:
       name: News
       url: /categories/news/
       weight: 30
-    - identifier: 
-      name: 
-      url: //
+    - identifier: games
+      name: Games
+      url: /games/
       weight: 40
     - identifier: contact
       name: Contact
